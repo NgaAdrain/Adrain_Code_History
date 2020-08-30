@@ -1,0 +1,2004 @@
+Socket Opened
+waiting...
+open client socket
+1) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 2) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 3) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 4) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 5) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 6) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 7) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 8) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 9) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 10) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 11) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 12) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 13) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 14) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 15) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 16) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 17) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 18) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 19) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 20) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 21) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 22) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 23) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 24) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 25) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 26) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 27) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 28) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 29) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 30) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 31) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 32) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 33) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 34) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 35) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 36) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 37) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 38) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 39) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 40) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 41) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 42) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 43) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 44) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 45) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 46) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 47) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 48) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 49) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 50) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 51) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 52) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 53) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 54) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 55) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 56) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 57) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 58) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 59) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 60) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 61) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 62) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 63) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 64) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 65) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 66) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 67) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 68) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 69) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 70) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 71) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 72) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 73) Processing Time : 2.000000 
+RECEIVE : 4000 bytes 
+ 74) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 75) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 76) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 77) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 78) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 79) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 80) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 81) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 82) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 83) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 84) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 85) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 86) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 87) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 88) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 89) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 90) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 91) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 92) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 93) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 94) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 95) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 96) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 97) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 98) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 99) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 100) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 101) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 102) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 103) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 104) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 105) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 106) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 107) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 108) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 109) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 110) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 111) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 112) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 113) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 114) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 115) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 116) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 117) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 118) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 119) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 120) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 121) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 122) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 123) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 124) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 125) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 126) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 127) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 128) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 129) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 130) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 131) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 132) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 133) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 134) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 135) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 136) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 137) Processing Time : 2.000000 
+RECEIVE : 4000 bytes 
+ 138) Processing Time : 2.000000 
+RECEIVE : 4000 bytes 
+ 139) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 140) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 141) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 142) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 143) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 144) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 145) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 146) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 147) Processing Time : 2.000000 
+RECEIVE : 4000 bytes 
+ 148) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 149) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 150) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 151) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 152) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 153) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 154) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 155) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 156) Processing Time : 2.000000 
+RECEIVE : 4000 bytes 
+ 157) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 158) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 159) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 160) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 161) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 162) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 163) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 164) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 165) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 166) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 167) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 168) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 169) Processing Time : 2.000000 
+RECEIVE : 4000 bytes 
+ 170) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 171) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 172) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 173) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 174) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 175) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 176) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 177) Processing Time : 2.000000 
+RECEIVE : 4000 bytes 
+ 178) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 179) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 180) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 181) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 182) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 183) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 184) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 185) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 186) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 187) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 188) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 189) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 190) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 191) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 192) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 193) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 194) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 195) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 196) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 197) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 198) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 199) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 200) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 201) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 202) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 203) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 204) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 205) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 206) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 207) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 208) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 209) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 210) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 211) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 212) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 213) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 214) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 215) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 216) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 217) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 218) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 219) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 220) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 221) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 222) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 223) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 224) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 225) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 226) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 227) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 228) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 229) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 230) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 231) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 232) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 233) Processing Time : 2.000000 
+RECEIVE : 4000 bytes 
+ 234) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 235) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 236) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 237) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 238) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 239) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 240) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 241) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 242) Processing Time : 2.000000 
+RECEIVE : 4000 bytes 
+ 243) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 244) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 245) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 246) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 247) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 248) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 249) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 250) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 251) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 252) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 253) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 254) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 255) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 256) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 257) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 258) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 259) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 260) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 261) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 262) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 263) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 264) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 265) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 266) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 267) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 268) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 269) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 270) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 271) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 272) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 273) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 274) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 275) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 276) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 277) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 278) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 279) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 280) Processing Time : 2.000000 
+RECEIVE : 4000 bytes 
+ 281) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 282) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 283) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 284) Processing Time : 2.000000 
+RECEIVE : 4000 bytes 
+ 285) Processing Time : 2.000000 
+RECEIVE : 4000 bytes 
+ 286) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 287) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 288) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 289) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 290) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 291) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 292) Processing Time : 2.000000 
+RECEIVE : 4000 bytes 
+ 293) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 294) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 295) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 296) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 297) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 298) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 299) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 300) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 301) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 302) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 303) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 304) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 305) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 306) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 307) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 308) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 309) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 310) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 311) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 312) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 313) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 314) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 315) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 316) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 317) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 318) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 319) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 320) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 321) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 322) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 323) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 324) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 325) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 326) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 327) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 328) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 329) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 330) Processing Time : 2.000000 
+RECEIVE : 4000 bytes 
+ 331) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 332) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 333) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 334) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 335) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 336) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 337) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 338) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 339) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 340) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 341) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 342) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 343) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 344) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 345) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 346) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 347) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 348) Processing Time : 2.000000 
+RECEIVE : 4000 bytes 
+ 349) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 350) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 351) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 352) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 353) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 354) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 355) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 356) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 357) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 358) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 359) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 360) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 361) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 362) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 363) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 364) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 365) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 366) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 367) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 368) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 369) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 370) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 371) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 372) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 373) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 374) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 375) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 376) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 377) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 378) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 379) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 380) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 381) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 382) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 383) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 384) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 385) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 386) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 387) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 388) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 389) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 390) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 391) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 392) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 393) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 394) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 395) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 396) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 397) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 398) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 399) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 400) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 401) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 402) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 403) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 404) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 405) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 406) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 407) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 408) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 409) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 410) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 411) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 412) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 413) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 414) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 415) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 416) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 417) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 418) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 419) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 420) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 421) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 422) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 423) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 424) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 425) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 426) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 427) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 428) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 429) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 430) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 431) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 432) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 433) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 434) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 435) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 436) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 437) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 438) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 439) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 440) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 441) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 442) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 443) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 444) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 445) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 446) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 447) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 448) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 449) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 450) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 451) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 452) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 453) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 454) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 455) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 456) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 457) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 458) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 459) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 460) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 461) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 462) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 463) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 464) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 465) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 466) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 467) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 468) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 469) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 470) Processing Time : 2.000000 
+RECEIVE : 4000 bytes 
+ 471) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 472) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 473) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 474) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 475) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 476) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 477) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 478) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 479) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 480) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 481) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 482) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 483) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 484) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 485) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 486) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 487) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 488) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 489) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 490) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 491) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 492) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 493) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 494) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 495) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 496) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 497) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 498) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 499) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 500) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 501) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 502) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 503) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 504) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 505) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 506) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 507) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 508) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 509) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 510) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 511) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 512) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 513) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 514) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 515) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 516) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 517) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 518) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 519) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 520) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 521) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 522) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 523) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 524) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 525) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 526) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 527) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 528) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 529) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 530) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 531) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 532) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 533) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 534) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 535) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 536) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 537) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 538) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 539) Processing Time : 2.000000 
+RECEIVE : 4000 bytes 
+ 540) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 541) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 542) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 543) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 544) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 545) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 546) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 547) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 548) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 549) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 550) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 551) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 552) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 553) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 554) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 555) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 556) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 557) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 558) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 559) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 560) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 561) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 562) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 563) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 564) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 565) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 566) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 567) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 568) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 569) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 570) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 571) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 572) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 573) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 574) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 575) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 576) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 577) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 578) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 579) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 580) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 581) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 582) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 583) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 584) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 585) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 586) Processing Time : 2.000000 
+RECEIVE : 4000 bytes 
+ 587) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 588) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 589) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 590) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 591) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 592) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 593) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 594) Processing Time : 2.000000 
+RECEIVE : 4000 bytes 
+ 595) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 596) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 597) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 598) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 599) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 600) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 601) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 602) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 603) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 604) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 605) Processing Time : 2.000000 
+RECEIVE : 4000 bytes 
+ 606) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 607) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 608) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 609) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 610) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 611) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 612) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 613) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 614) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 615) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 616) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 617) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 618) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 619) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 620) Processing Time : 2.000000 
+RECEIVE : 4000 bytes 
+ 621) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 622) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 623) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 624) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 625) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 626) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 627) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 628) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 629) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 630) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 631) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 632) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 633) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 634) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 635) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 636) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 637) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 638) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 639) Processing Time : 2.000000 
+RECEIVE : 4000 bytes 
+ 640) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 641) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 642) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 643) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 644) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 645) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 646) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 647) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 648) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 649) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 650) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 651) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 652) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 653) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 654) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 655) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 656) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 657) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 658) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 659) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 660) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 661) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 662) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 663) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 664) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 665) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 666) Processing Time : 2.000000 
+RECEIVE : 4000 bytes 
+ 667) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 668) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 669) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 670) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 671) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 672) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 673) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 674) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 675) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 676) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 677) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 678) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 679) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 680) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 681) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 682) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 683) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 684) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 685) Processing Time : 2.000000 
+RECEIVE : 4000 bytes 
+ 686) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 687) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 688) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 689) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 690) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 691) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 692) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 693) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 694) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 695) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 696) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 697) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 698) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 699) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 700) Processing Time : 2.000000 
+RECEIVE : 4000 bytes 
+ 701) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 702) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 703) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 704) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 705) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 706) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 707) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 708) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 709) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 710) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 711) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 712) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 713) Processing Time : 2.000000 
+RECEIVE : 4000 bytes 
+ 714) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 715) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 716) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 717) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 718) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 719) Processing Time : 2.000000 
+RECEIVE : 4000 bytes 
+ 720) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 721) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 722) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 723) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 724) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 725) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 726) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 727) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 728) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 729) Processing Time : 2.000000 
+RECEIVE : 4000 bytes 
+ 730) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 731) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 732) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 733) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 734) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 735) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 736) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 737) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 738) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 739) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 740) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 741) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 742) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 743) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 744) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 745) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 746) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 747) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 748) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 749) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 750) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 751) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 752) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 753) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 754) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 755) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 756) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 757) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 758) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 759) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 760) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 761) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 762) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 763) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 764) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 765) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 766) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 767) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 768) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 769) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 770) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 771) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 772) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 773) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 774) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 775) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 776) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 777) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 778) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 779) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 780) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 781) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 782) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 783) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 784) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 785) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 786) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 787) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 788) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 789) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 790) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 791) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 792) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 793) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 794) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 795) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 796) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 797) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 798) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 799) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 800) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 801) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 802) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 803) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 804) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 805) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 806) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 807) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 808) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 809) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 810) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 811) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 812) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 813) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 814) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 815) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 816) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 817) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 818) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 819) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 820) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 821) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 822) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 823) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 824) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 825) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 826) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 827) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 828) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 829) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 830) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 831) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 832) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 833) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 834) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 835) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 836) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 837) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 838) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 839) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 840) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 841) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 842) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 843) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 844) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 845) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 846) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 847) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 848) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 849) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 850) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 851) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 852) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 853) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 854) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 855) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 856) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 857) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 858) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 859) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 860) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 861) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 862) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 863) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 864) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 865) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 866) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 867) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 868) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 869) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 870) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 871) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 872) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 873) Processing Time : 2.000000 
+RECEIVE : 4000 bytes 
+ 874) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 875) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 876) Processing Time : 2.000000 
+RECEIVE : 4000 bytes 
+ 877) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 878) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 879) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 880) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 881) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 882) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 883) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 884) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 885) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 886) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 887) Processing Time : 2.000000 
+RECEIVE : 4000 bytes 
+ 888) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 889) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 890) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 891) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 892) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 893) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 894) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 895) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 896) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 897) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 898) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 899) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 900) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 901) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 902) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 903) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 904) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 905) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 906) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 907) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 908) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 909) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 910) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 911) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 912) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 913) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 914) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 915) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 916) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 917) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 918) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 919) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 920) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 921) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 922) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 923) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 924) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 925) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 926) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 927) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 928) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 929) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 930) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 931) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 932) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 933) Processing Time : 2.000000 
+RECEIVE : 4000 bytes 
+ 934) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 935) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 936) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 937) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 938) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 939) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 940) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 941) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 942) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 943) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 944) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 945) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 946) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 947) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 948) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 949) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 950) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 951) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 952) Processing Time : 2.000000 
+RECEIVE : 4000 bytes 
+ 953) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 954) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 955) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 956) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 957) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 958) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 959) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 960) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 961) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 962) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 963) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 964) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 965) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 966) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 967) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 968) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 969) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 970) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 971) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 972) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 973) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 974) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 975) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 976) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 977) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 978) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 979) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 980) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 981) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 982) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 983) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 984) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 985) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 986) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 987) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 988) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 989) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 990) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 991) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 992) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 993) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 994) Processing Time : 0.000000 
+RECEIVE : 4000 bytes 
+ 995) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 996) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 997) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 998) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 999) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ 1000) Processing Time : 1.000000 
+RECEIVE : 4000 bytes 
+ finish successfully

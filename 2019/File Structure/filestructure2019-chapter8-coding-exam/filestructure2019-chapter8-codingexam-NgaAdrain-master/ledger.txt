@@ -1,0 +1,44 @@
+101	Checking Account #1
+101		1271	02/02/86	Auto expense                  	  -78.70
+101		1271	03/02/86	Auto expense                  	  -18.70
+101		1272	03/02/97	Rent                          	  -50.00
+101		1272	04/02/97	Rent                          	  -54.00
+101		1273	04/04/97	Advertising                   	  -80.50
+101		1273	02/04/97	Advertising                   	 -187.50
+101		1274	02/02/97	Auto expense                  	  -30.83
+101		1274	04/02/97	Auto expense                  	 -231.83
+				Prev. bal:  1032.57	New bal:	  300.51
+102	Checking Account #2
+102		670	02/02/97	Office expense                	 -382.78
+102		670	03/02/97	Office expense                	 -232.78
+				Prev. bal:   543.78	New bal:	  -71.78
+505	Advertising expense
+505		1273	02/04/97	Newspaper ad re: new product  	  827.50
+505		1273	03/04/97	Newspaper ad re: new product  	  287.50
+				Prev. bal:    25.00	New bal:	 1140.00
+510	Auto expenses
+510		1271	02/02/97	Tune up and minor repair      	  178.70
+510		1274	04/09/97	Oil change                    	  131.83
+510		1271	03/02/97	Tune up and minor repair      	  278.70
+510		1274	04/09/97	Oil change                    	  331.83
+				Prev. bal:   195.40	New bal:	 1116.46
+515	Bank charges
+				Prev. bal:     0.00	New bal:	    0.00
+520	Books and publications
+				Prev. bal:    27.95	New bal:	   27.95
+525	Interest expense
+				Prev. bal:   103.50	New bal:	  103.50
+535	Miscellaneous expense
+				Prev. bal:    12.45	New bal:	   12.45
+540	Office expense
+540		670	03/02/97	Printer cartridge             	  132.78
+540		670	04/02/97	Printer cartridge             	  332.78
+				Prev. bal:    57.50	New bal:	  523.06
+545	Postage and shipping
+				Prev. bal:    21.00	New bal:	   21.00
+550	Rent
+550		1272	02/02/97	Rent for April                	   50.00
+550		1272	03/02/97	Rent for April                	   52.00
+				Prev. bal:   500.00	New bal:	  602.00
+555	Supplies
+				Prev. bal:   112.00	New bal:	  112.00

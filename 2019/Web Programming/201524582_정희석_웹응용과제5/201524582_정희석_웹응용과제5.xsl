@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+    <xsl:output method="html" doctype-system ="about:legacy-compat"/>
+    <xsl:template match="/">
+      <html xmlns ="http://www.w3.org/1999/xhtml">
+        <head>
+            <!-- Head에 Meta data로써 학생증을 만들자 -->
+            <!-- table 적극 활용!-->
+            <!-- 크기 잘 설정 -->
+            <meta charset="utf-8"/>
+            <title>Student Information</title>
+            <!-- 학생의 정보로 들어가야 하는 것-->
+            <meta name="stu_name" content="김가성"/>
+            <!-- 1. 이름 -->
+            <meta name="stu_birth_date" content="1999-01-31"/>
+            <!-- 2. 생년월일 -->
+            <meta name="sch_name" content="부산대학교"/>
+            <!-- 3. 소속 학교 -->
+            <meta name="stu_department" content="정보컴퓨터공학과"/>
+            <!-- 4. 소속 학과 -->
+            <meta name="stu_ID" content="201924401"/>
+            <!-- 5. 학번 -->
+            <meta name="stu_grade" content="1"/>
+            <!-- 6. 학년 -->
+            <meta name="stu_entry_date" content="2019-03-04"/>
+            <!-- 7. 입학 날짜 -->
+            <meta name="stu_phone#" content = "010-7272-6974"/>
+            <!-- 8. 전화번호 -->
+            <meta name="stu_email" content = "astral1@pusan.ac.kr"/>
+            <!-- 9. 전자 메일 -->
+        </head>
+        <!-- 실습 환경에서 깨지거나 줄 배치 이상하면 감점!-->
+        <body>
+          <h3>김가성 학생의 가상 학생증</h3>
+          <hr></hr>
+            <table border = "1">
+              <caption>부산대학교</caption>
+              <thead>
+                <tr>
+                  <th colspan="3">학생증</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th rowspan="3">
+                    <img src="student_example.jpg" width= "250"
+                        height= "400" alt="Picture of student"/>
+                    </th>
+                  <th> 이름 </th>
+                  <th> 김가성 </th>
+                </tr>
+                <tr>
+                  <th> 학과 </th>
+                  <th> 정보컴퓨터공학과 </th>
+                </tr>
+                <tr>
+                  <th> 학번 </th>
+                  <th> 201924401 </th>
+                </tr>
+              </tbody>
+              <tfoot>
+                <tr>
+                  <th colspan="3">Pusan National University</th>
+                </tr>
+              </tfoot>
+            </table>
+          </body>
+      </html>
+        <xsl:copy>
+            <xsl:apply-templates select="/"/>
+        </xsl:copy>
+    </xsl:template>
+</xsl:stylesheet>

@@ -1,0 +1,13 @@
+/* Fig. 12.17: style.css */
+/* 201524582 정희석 coverviewer에서 'id' 수정하기*/
+/* CSS for coverviewer.html. */
+#thumbs {
+    width: 192px;
+    height: 370px;
+    padding: 5px;
+    float: left;
+}
+#mainimg  { width: 289px;
+            padding: 5px;
+            float: left; }
+img       { border: 1px solid black; }

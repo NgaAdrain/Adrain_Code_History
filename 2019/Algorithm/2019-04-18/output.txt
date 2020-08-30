@@ -1,0 +1,4 @@
+Sequence penalty score = 7
+ATCCTAG
+-TAC-GT
+2010211

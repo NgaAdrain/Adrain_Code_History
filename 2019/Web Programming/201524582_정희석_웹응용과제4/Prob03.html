@@ -1,0 +1,84 @@
+﻿<!DOCTYPE html>
+<!-- 웹응용프로그래밍 059분반
+     학번 : 201524582
+     이름 : 정희석
+     중간고사 3번 문제 풀기 HTML파일-->
+<!--
+    구현된것: 문제 만들어서 데이터베이스에 저장가능
+    구현해야 하는 것 : 데이터베이스에서 불러오기
+-->
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Problem 03</title>
+    <!--<link rel="stylesheet" href="Prob03.css" type="text/css" />-->
+    <script src="Prob03.js" charset='euc-kr'></script>
+</head>
+<body>
+    <div id="Container">
+        <input id="NewProb" type="button" value="문제 생성 " />
+        <input id="LoadProb" type="button" value="전체 문제 출력" />
+        <div id="Create" style="display:none">
+            <form method="post" action="prob03.php" style="text-align:center">
+                <!-- target="secret"> -->
+                <p>
+                    문제 번호 :
+                    <input name="ProbNum" id="ProbNum" type="number" min="1" required />
+                </p>
+                <p>
+                    문제 내용 :
+                </p>
+                <textarea name="ProbText" id="ProbText" rows="4" cols="50" required></textarea>
+                <p>
+                    선택문항1 :
+                    <input name="ProbSel1" id="ProbSel1" type="text" required />
+                </p>
+                <p>
+                    선택문항2 :
+                    <input name="ProbSel2" id="ProbSel2" type="text" required />
+                </p>
+                <p>
+                    선택문항3 :
+                    <input name="ProbSel3" id="ProbSel3" type="text" required />
+                </p>
+                <p>
+                    선택문항4 :
+                    <input name="ProbSel4" id="ProbSel4" type="text" required />
+                </p>
+                <p>
+                    선택문항5 :
+                    <input name="ProbSel5" id="ProbSel5" type="text" required />
+                </p>
+                <p>
+                    정답 문항 :
+                    <input name="ProbAns" id="ProbAns" type="number" min="1" max="5" required />
+                </p>
+                <p>
+                    간단 설명 :
+                </p>
+                <textarea name="ProbSimp" id="ProbSimp" rows="4" cols="50" required></textarea>
+                <br>
+                <!--<input id="saveButton" type="button" value="문제 저장">-->
+                <input type="submit" name="submit" id="saveButton" value="문제 저장">
+            </form>
+        </div>
+    </div>
+    <!--
+    <iframe id="secret" name="secret" width="0" height="0" style="display:none" frame_border="0"></iframe>
+    -->
+    <div id="DisplayList" style="text-align:left"></div><!-- Create From JavaScript -->
+    <div id="DisplayProb" style="text-align:center"></div> <!-- Create From JavaScript -->
+</body>
+</html>
+
+<!--
+1. 각 input을 받아서 JSON으로 변환(Store) -> LocalStorage에 저장(Tag : Problem+ProbNum)
+2. 문제 번호와 간단한 설명 내용을 표시 -> 어디에? -> DisplayList에!
+    -> 그리고 밑에 1.편집 버튼 2.문제 삭제 3.문제 풀기 버튼 생성
+    편집 버튼 -> LocalStorage에서 JSON 호출-> 호출하고 원래 JSON삭제
+        -> 각 내용을 각 id에 해당하는 input form에 호출
+    삭제 버튼 -> LocalStorage의 removeItem을 사용
+    풀기 버튼 -> LocalStorage에서 JSON 호출 -> innerHTML로 DisplayProb에 출력
+3. 문제 전체 출력 -> LocalStorage에 저장된 모든 JSON 호출 -> innerHTML로 DisplayProb에 출력
+
+-->

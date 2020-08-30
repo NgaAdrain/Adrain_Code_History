@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Network.Participate">
+
+    <GridLayout
+        android:id="@+id/gridLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:columnCount="4"
+        android:layout_gravity="fill"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0"
+        >
+        <TextView
+            android:id="@+id/state_p"
+            android:layout_row="0"
+            android:layout_columnSpan="4"
+            android:layout_gravity="fill"
+            android:text="State Message Here" />
+
+        <TextView
+            android:id="@+id/show_p"
+            android:layout_column="0"
+            android:layout_columnSpan="3"
+            android:layout_width="match_parent"
+            android:layout_gravity="fill"
+            android:text="Show Message Here" />
+
+        <EditText
+            android:id="@+id/edit_p"
+            android:layout_width="match_parent"
+            android:layout_rowSpan="3"
+            android:layout_column="0"
+            android:layout_columnWeight="0"
+            android:layout_columnSpan="3"
+            android:hint="Edit Message Here" />
+
+        <Button
+            android:id="@+id/ParticipateRoomButton"
+            android:layout_column="0"
+            android:text="Create" />
+
+        <Button
+            android:id="@+id/send_p"
+            android:layout_width="115dp"
+            android:layout_column="1"
+            android:text="Send" />
+
+        <Button
+            android:id="@+id/get_p"
+            android:layout_width="wrap_content"
+            android:layout_row="5"
+            android:layout_column="2"
+            android:text="Get Message" />
+
+        <Button
+            android:id="@+id/QuitRoomButton_P"
+            android:layout_column="2"
+            android:layout_gravity="right"
+            android:text="Quit"
+            android:layout_row="5" />
+
+    </GridLayout>
+</android.support.constraint.ConstraintLayout>

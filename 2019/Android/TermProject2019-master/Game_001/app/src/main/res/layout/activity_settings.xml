@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UI.Settings">
+
+    <GridLayout
+        android:id="@+id/gridLayout3"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:columnCount="2"
+        android:rowCount="5"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:layout_rowSpan="5"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            android:layout_gravity="fill"
+            android:background="#9E5555"
+            android:backgroundTint="#204FCE"
+            android:foregroundTint="#00FFFFFF"
+            android:gravity="center"
+            android:text="Settings"
+            android:textColor="#FAF8F8"
+            android:textSize="50sp" />
+
+        <Switch
+            android:id="@+id/bgmOnOff"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            android:layout_gravity="fill"
+            android:background="#03A9F4"
+            android:backgroundTint="#082A88"
+            android:text="Background Music"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp" />
+
+        <Switch
+            android:id="@+id/effectOnOff"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            android:layout_gravity="fill"
+            android:background="#00BCD4"
+            android:backgroundTint="#A1B9E9"
+            android:text="Effect Sound"
+            android:textSize="20sp" />
+
+        <Switch
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            android:layout_gravity="fill"
+            android:background="#00BCD4"
+            android:backgroundTint="#082A87"
+            android:text="Switch3"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp" />
+
+        <Switch
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            android:layout_gravity="fill"
+            android:background="#00BCD4"
+            android:backgroundTint="#A0B8E8"
+            android:text="Switch4"
+            android:textSize="20sp" />
+
+        <Switch
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            android:layout_gravity="fill"
+            android:background="#00BCD4"
+            android:backgroundTint="#082A86"
+            android:text="Switch5"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp" />
+
+
+    </GridLayout>
+</android.support.constraint.ConstraintLayout>
