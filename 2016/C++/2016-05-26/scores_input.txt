@@ -1,0 +1,10 @@
+201624402	Jessica Alba		75	60	7	7
+201624405	Jack Black		80	55	8	5
+201624410	Johnny Depp		95	90	10	9
+201624412	Robert Downey		60	50	6	4
+201624417	Chris Evans		80	75	8	9
+201624421	Tom Hanks		90	95	9	9
+201624429	Scarlett Johansson	80	70	8	7
+201624430	Angelina Jolie		85	75	6	5
+201624435	Rachel McAdams		70	75	7	8
+201624438	Natalie Portman		95	95	10	10
