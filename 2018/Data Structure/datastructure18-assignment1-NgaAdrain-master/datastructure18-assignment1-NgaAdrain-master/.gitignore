@@ -1,0 +1,26 @@
+﻿################################################################################
+# 이 .gitignore 파일은 Microsoft(R) Visual Studio에서 자동으로 만들어졌습니다.
+################################################################################
+
+/Assignment1/x64/Debug/Assignment1.tlog/Assignment1.lastbuildstate
+/Assignment1/x64/Debug/Assignment1.tlog/CL.command.1.tlog
+/Assignment1/x64/Debug/Assignment1.tlog/CL.read.1.tlog
+/Assignment1/x64/Debug/Assignment1.tlog/CL.write.1.tlog
+/Assignment1/x64/Debug/Assignment1.tlog/link.command.1.tlog
+/Assignment1/x64/Debug/Assignment1.tlog/link.read.1.tlog
+/Assignment1/x64/Debug/Assignment1.tlog/link.write.1.tlog
+/Assignment1/x64/Debug/Assignment1.log
+/Assignment1/x64/Debug/main.obj
+/Assignment1/x64/Debug/vc141.idb
+/Assignment1/x64/Debug/vc141.pdb
+/Assignment1/Assignment1.vcxproj.user
+/x64/Debug/Assignment1.exe
+/x64/Debug/Assignment1.ilk
+/x64/Debug/Assignment1.pdb
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
+/.vs/datastructure18-assignment1-NgaAdrain/v15/Browse.VC.db
+/.vs/datastructure18-assignment1-NgaAdrain/v15/.suo
+/.vs/Assignment1/v15/.suo
+/.vs/Assignment1/v15/Browse.VC.db
+/.vs/Assignment1/v15/Browse.VC.opendb
