@@ -1,0 +1,21 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int** list;
+    int i, num;
+    cout<<"Input Number Of Element : ";
+    cin >> num;
+    list = new int*[num];
+    for(i = 0;i<num;i++){
+        list[i] = new int[2];
+        list[i][0] = i+1;
+        list[i][1] = i+4;
+        cout << list[i][0] << " " << list[i][1] << endl;
+    }
+    cout<<"Hello World";
+
+    return 0;
+}

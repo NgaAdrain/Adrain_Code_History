@@ -1,0 +1,25 @@
+data example)
+#id":200,
+#"name":"\u653e\u8ab2\u5f8c\u30d5\u30a1\u30f3\u30bf\u30ba\u30e0",
+#"furigana":"\u307b\u3046\u304b\u3054\u3075\u3041\u3093\u305f\u305a\u3080",
+#"ichiran_name":"\u653e\u8ab2\u5f8c\u30d5\u30a1\u30f3\u30bf\u30ba\u30e0",
+#"chara_name":"","chara_furigana":"",
+#"rea":5,"zokusei":1,"memoria_type":2,"hyoka":85,
+#"saikyo_rank_id":3,"huge_rank_id":3,"legion_rank_id":4,
+#"atk":1970,"sp_atk":1338,"def":1904,"sp_def":1337,
+#"huge_type":1,"legion_type":1,"legion_hojo_type":4}
+data tag detail)
+#name: 메모리아 이름, rea: 별, zokusei: 속성, memoria_type: 메모리얼 타입,
+#atk: 일공, sp_atk: 특공, def: 일방, sp_def: 특방
+#huge_type: 휴지 스킬, legion_type: 레기온 스킬, legion_hojo_type: 레기온 보조 스킬
+data classification information)
+#rea>
+#=>rarelity(5성,4성,3성)
+#zokusei>
+#=> 1: 화속, 2: 수속 3: 풍속
+#memoria_type >
+#=>1. 통상단일공격 2. 통상복수공격 3. 특수단일공격 4. 특수복수공격
+#=>5. 아군 버프 6. 적 디버프 7. 회복
+#huge_type>
+#legion_type>
+#legion_hojo_type>
