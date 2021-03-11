@@ -17,3 +17,9 @@ Created by Adrain
 4. 설정 값 있으면 재실행 이후 설정 과정 건너뜀
 5. 설정 값 변경 기능 추가. (ctrl+shift)
 2021-03-11 Version 0.02
+===================================================
+Bug Report
+-> 다중 디스플레이 환경에서 주모니터 이외에는 정상적으로 캡쳐 불가
+(reported by HTYKKR)
+EU : 사용하는 모듈(pyautogui)의 screenshot이 multiple monitor를 지원하지 않음!
+이 부분은 다른 모듈로 교체하는 것으로 해결해야 한다!
