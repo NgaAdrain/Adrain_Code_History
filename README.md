@@ -7,4 +7,6 @@ School of Electrical and Computer Engineering
 
 Information and Computer Engineering Major
 
+Bachelor of Engineering
+
 Adrain(H.S Jeong)'s Record Repository
